@@ -1,10 +1,10 @@
-# Capsolver Amazon Captcha Bypass
+# Capsolver Hcaptcha Captcha Bypass
 
 [![Capsolver](docs/capsolver.jpeg)](https://dashboard.capsolver.com/passport/register?inviteCode=y7CtB_a-3X6d)
 
-**Solve Amazon Captcha in just one line of code!**
+**Solve Hcaptcha Captcha in just one line of code!**
 
-A Selenium implementation to bypass Amazon Captcha using Capsolver API.
+A Selenium implementation to bypass Hcaptcha Captcha using Capsolver API.
 
 ## Getting Started
 
