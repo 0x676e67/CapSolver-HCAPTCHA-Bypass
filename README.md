@@ -47,6 +47,9 @@ source .venv/bin/activate
     
 ```
 
+Usage 用法
+To use this script, you need to have a Capsolver account. You can create an account here and get your API key. Once you have your API key, replace api_key in the script with your actual API key.
+
 ```shell
 python main.py
 ```

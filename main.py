@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 import requests
-# author: xiaofei
+
 # Set your configuration
 api_key = "API key"  # your API key for the CAPTCHA solving service
 site_key = "f7de0da3-3303-44e8-ab48-fa32ff8ccc7b"  # site key of your target site
