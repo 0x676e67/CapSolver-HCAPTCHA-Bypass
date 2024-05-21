@@ -1,3 +1,11 @@
+# Capsolver Amazon Captcha Bypass
+
+[![Capsolver](docs/capsolver.jpg)](https://dashboard.capsolver.com/passport/register?inviteCode=y7CtB_a-3X6d)
+
+**Solve Amazon Captcha in just one line of code!**
+
+A Selenium implementation to bypass Amazon Captcha using Capsolver API.
+
 ## Getting Started
 
 ```shell
@@ -42,3 +50,7 @@ source .venv/bin/activate
 ```shell
 python main.py
 ```
+
+## Capsolver
+
+Capsolver is a platform that provides APIs to solve CAPTCHAs. You can use Capsolver to bypass CAPTCHAs in your web scraping projects. The platform supports solving Google Recaptcha V2, Recaptcha V3, hCaptcha, FunCaptcha, GeeTest, and more. You can create an account [here](https://dashboard.capsolver.com/passport/register?inviteCode=y7CtB_a-3X6d) and get your API key.
