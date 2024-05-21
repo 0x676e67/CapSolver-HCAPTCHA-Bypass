@@ -1,6 +1,6 @@
 # Capsolver Amazon Captcha Bypass
 
-[![Capsolver](docs/capsolver.jpg)](https://dashboard.capsolver.com/passport/register?inviteCode=y7CtB_a-3X6d)
+[![Capsolver](docs/capsolver.jpeg)](https://dashboard.capsolver.com/passport/register?inviteCode=y7CtB_a-3X6d)
 
 **Solve Amazon Captcha in just one line of code!**
 
